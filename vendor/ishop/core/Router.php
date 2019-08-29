@@ -31,7 +31,7 @@ class Router
       if(class_exists($controller)){
         $controllerObject = new $controller(self::$route);
         $action = self::lowerCamelCase(self::$route['action']) .'Action';
-        
+
         if(method_exists($controllerObject,$action)){
           $controllerObject->$action();
         }else{
