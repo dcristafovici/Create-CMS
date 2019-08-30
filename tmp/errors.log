@@ -774,3 +774,15 @@
 ==============================
 [2019-08-30 06:53:27] Текст ошибки: syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' | Файл: C:\OSPanel\domains\ishop.loc\app\controllers\MainController.php |  Строка: 12
 ==============================
+[2019-08-30 07:09:32] Текст ошибки: Function name must be a string | Файл: C:\OSPanel\domains\ishop.loc\app\views\layouts\default.php |  Строка: 8
+==============================
+[2019-08-30 07:21:23] Текст ошибки: Call to undefined method app\controllers\MainController::setMetda() | Файл: C:\OSPanel\domains\ishop.loc\app\controllers\MainController.php |  Строка: 12
+==============================
+[2019-08-30 07:34:26] Текст ошибки: syntax error, unexpected ':', expecting ',' or ')' | Файл: C:\OSPanel\domains\ishop.loc\app\controllers\MainController.php |  Строка: 12
+==============================
+[2019-08-30 07:34:42] Текст ошибки: Class 'app\controllers\App' not found | Файл: C:\OSPanel\domains\ishop.loc\app\controllers\MainController.php |  Строка: 12
+==============================
+[2019-08-30 07:34:42] Текст ошибки: Class 'app\controllers\App' not found | Файл: C:\OSPanel\domains\ishop.loc\app\controllers\MainController.php |  Строка: 12
+==============================
+[2019-08-30 07:39:00] Текст ошибки: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ')' | Файл: C:\OSPanel\domains\ishop.loc\app\controllers\MainController.php |  Строка: 13
+==============================

@@ -1,29 +1,24 @@
 <?php
 
-
 namespace ishop\base;
 
-
-abstract class Controller
-{
+abstract class Controller{
 
   public $route;
   public $controller;
   public $model;
   public $view;
-  public $layout;
   public $prefix;
+  public $layout;
   public $data = [];
-  public $meta = [];
+  public $meta = ['title' => '', 'desc' => '', 'keywords' => ''];
 
-  public function __construct($route)
-  {
+  public function __construct($route){
     $this->route = $route;
     $this->controller = $route['controller'];
     $this->model = $route['controller'];
     $this->view = $route['action'];
     $this->prefix = $route['prefix'];
-
   }
 
   public function getView(){
@@ -35,12 +30,10 @@ abstract class Controller
     $this->data = $data;
   }
 
-  public function setMeta($title = '', $description = '', $keywords = ''){
-    $this->$meta['title'] = $title;
-    $this->$meta['description'] = $description;
-    $this->$meta['keywords'] = $keywords;
+  public function setMeta($title = '', $desc = '', $keywords = ''){
+    $this->meta['title'] = $title;
+    $this->meta['desc'] = $desc;
+    $this->meta['keywords'] = $keywords;
   }
-
-
 
 }
