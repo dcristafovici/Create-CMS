@@ -10,5 +10,6 @@
 
 <h1>Шаблон Default</h1>
 
+<?=$content; ?>
 </body>
 </html>

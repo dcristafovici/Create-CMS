@@ -636,3 +636,141 @@
 ==============================
 [2019-08-29 10:11:36] Текст ошибки: syntax error, unexpected '(' | Файл: C:\OSPanel\domains\ishop.loc\app\controllers\AppController.php |  Строка: 11
 ==============================
+[2019-08-29 10:28:11] Текст ошибки: Call to undefined function ishop\base\render() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\Controller.php |  Строка: 41
+==============================
+[2019-08-29 10:30:38] Текст ошибки: Call to undefined function ishop\base\render() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\Controller.php |  Строка: 41
+==============================
+[2019-08-29 10:30:38] Текст ошибки: Call to undefined function ishop\base\render() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\Controller.php |  Строка: 41
+==============================
+[2019-08-29 10:30:39] Текст ошибки: Call to undefined function ishop\base\render() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\Controller.php |  Строка: 41
+==============================
+[2019-08-29 10:30:39] Текст ошибки: Call to undefined function ishop\base\render() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\Controller.php |  Строка: 41
+==============================
+[2019-08-29 10:30:39] Текст ошибки: Call to undefined function ishop\base\render() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\Controller.php |  Строка: 41
+==============================
+[2019-08-29 10:39:40] Текст ошибки: Call to undefined function ishop\base\render() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\Controller.php |  Строка: 31
+==============================
+[2019-08-29 10:39:41] Текст ошибки: Call to undefined function ishop\base\render() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\Controller.php |  Строка: 31
+==============================
+[2019-08-29 10:39:41] Текст ошибки: Call to undefined function ishop\base\render() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\Controller.php |  Строка: 31
+==============================
+[2019-08-29 10:39:41] Текст ошибки: Call to undefined function ishop\base\render() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\Controller.php |  Строка: 31
+==============================
+[2019-08-29 10:43:55] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php |  Строка: 39
+==============================
+[2019-08-29 10:43:58] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php |  Строка: 37
+==============================
+[2019-08-29 10:43:59] Текст ошибки: Call to undefined method app\controllers\PageController::getView() | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php |  Строка: 37
+==============================
+[2019-08-29 10:44:02] Текст ошибки: Метод app\controllers\PageController::indexAction не найден | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php |  Строка: 39
+==============================
+[2019-08-29 10:48:23] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php |  Строка: 47
+==============================
+[2019-08-30 06:26:31] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php |  Строка: 47
+==============================
+[2019-08-30 06:32:16] Текст ошибки: syntax error, unexpected '}', expecting ',' or ';' | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 55
+==============================
+[2019-08-30 06:33:00] Текст ошибки: Не найден вин C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:33:00] Текст ошибки: Не найден вин C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:33:00] Текст ошибки: Не найден вин C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:33:00] Текст ошибки: Не найден вин C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:33:11] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:33:42] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.pshp | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:34:18] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:34:19] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:34:19] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:34:19] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:34:20] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:34:32] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:34:33] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:34:33] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:34:33] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:34:33] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:34:33] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:34:44] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 50
+==============================
+[2019-08-30 06:34:45] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 50
+==============================
+[2019-08-30 06:34:45] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 50
+==============================
+[2019-08-30 06:34:45] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 50
+==============================
+[2019-08-30 06:34:45] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 50
+==============================
+[2019-08-30 06:34:58] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:35:01] Текст ошибки: Страница не найдена | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\Router.php |  Строка: 47
+==============================
+[2019-08-30 06:35:06] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:35:09] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 48
+==============================
+[2019-08-30 06:36:59] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 50
+==============================
+[2019-08-30 06:36:59] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 50
+==============================
+[2019-08-30 06:37:00] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 50
+==============================
+[2019-08-30 06:37:42] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 50
+==============================
+[2019-08-30 06:37:53] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:37:53] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:37:53] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:38:04] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:38:05] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:38:05] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:38:05] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:38:08] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:38:09] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:38:09] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:38:23] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:39:10] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:39:10] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:39:11] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:39:11] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:42:11] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:42:12] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:42:12] Текст ошибки: Не найден вид C:\OSPanel\domains\ishop.loc/app/views/Main/Main.php | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 49
+==============================
+[2019-08-30 06:47:52] Текст ошибки: syntax error, unexpected '}' | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 50
+==============================
+[2019-08-30 06:48:08] Текст ошибки: syntax error, unexpected '}' | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 47
+==============================
+[2019-08-30 06:48:41] Текст ошибки: syntax error, unexpected '}', expecting ',' or ';' | Файл: C:\OSPanel\domains\ishop.loc\vendor\ishop\core\base\View.php |  Строка: 54
+==============================
+[2019-08-30 06:53:27] Текст ошибки: syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' | Файл: C:\OSPanel\domains\ishop.loc\app\controllers\MainController.php |  Строка: 12
+==============================
