@@ -1,9 +1,9 @@
 <?php
 
 return [
-  'email' => 'admin@mail.ru',
-  'shop_name' => 'Is name to Shop',
-  'pagination' => 3,
-  'smtp_login' => '',
-  'phone' => '328328323'
+    'admin_email' => 'admin@mail.com',
+    'shop_name' => 'Магазин ishop2.loc',
+    'pagination' => 3,
+    'smtp_login' => '',
+    'smtp_password' => '',
 ];

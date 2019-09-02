@@ -1,13 +1,11 @@
 <?php
 
-
 namespace app\controllers;
 
+class PageController extends AppController {
 
-class PageController
-{
-  public function viewAction(){
-    echo __METHOD__;
-  }
+    public function viewAction(){
+        echo __METHOD__;
+    }
 
 }
